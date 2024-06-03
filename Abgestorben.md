@@ -6,7 +6,7 @@ Hello! I work as a Web and Game Developer. I am experienced with the following t
 
 ## About Me
 
-My name is [Your Name]. I am an expert in web and game development. I love creating innovative solutions and developing amazing projects using technology. I have experience in both frontend and backend development.
+My name is Samet. I am an expert in web and game development. I love creating innovative solutions and developing amazing projects using technology. I have experience in both frontend and backend development.
 
 ## Projects
 
@@ -35,7 +35,7 @@ My name is [Your Name]. I am an expert in web and game development. I love creat
 To reach me:
 
 - **Email:** abgestorbendev@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abgestorben)
+- **LinkedIn:** [@abgestorben](https://www.linkedin.com/in/abgestorben)
 - **X (Twitter):** [@abgestorbendev](https://x.com/@abgestorbendev)
 
 Thank you! If you liked my projects, don't forget to check out my other projects on my GitHub profile.
